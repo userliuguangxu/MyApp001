@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
   private void init() {
-        idd.setText("张三丰");
+        idd.setText("张三丰");//
 
     }
 
